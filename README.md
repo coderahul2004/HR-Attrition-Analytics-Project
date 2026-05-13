@@ -67,6 +67,15 @@ Employee attrition costs companies significantly in recruitment and training. Th
 4. Implement job satisfaction surveys quarterly (score < 2 = high risk)
 5. Reduce commute burden through hybrid work for Distance > 15km employees
 
----
+---## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Risk Analysis
+![Risk Analysis](risk_analysis.png)
+
+### Employee Table
+![Employee Table](employee_table.png)
 
 
