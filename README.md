@@ -70,7 +70,7 @@ Employee attrition costs companies significantly in recruitment and training. Th
 ---## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](executive_overview.png)
+![Executive Overview](executive_overview..png)
 
 ### Risk Analysis
 ![Risk Analysis](risk_analysis.png)
