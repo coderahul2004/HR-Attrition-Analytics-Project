@@ -18,24 +18,6 @@ Employee attrition costs companies significantly in recruitment and training. Th
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/rahulsamanta/hr-attrition-analysis.git
-cd hr-attrition-analysis
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Add the dataset
-# Download from Kaggle and place as: WA_Fn-UseC_-HR-Employee-Attrition.csv
-
-# 4. Run analysis
-python hr_attrition_analysis.py
-```
-
----
 
 ## 📊 Key Findings
 
@@ -87,4 +69,4 @@ python hr_attrition_analysis.py
 
 ---
 
-**Author**: Rahul Samanta | [LinkedIn](https://linkedin.com/in/rahulsamanta) | [GitHub](https://github.com/rahulsamanta)
+
